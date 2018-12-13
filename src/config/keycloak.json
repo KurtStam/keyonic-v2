@@ -1,6 +1,6 @@
 {
   "realm": "keypress",
-  "url": "http://192.168.1.204:8080/auth",
+  "url": "http://192.168.1.11:8081/auth",
   "ssl-required": "external",
   "clientId": "keyonic-v2",
   "public-client": true,
